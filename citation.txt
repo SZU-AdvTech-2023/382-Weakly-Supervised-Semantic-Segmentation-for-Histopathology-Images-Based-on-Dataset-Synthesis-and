@@ -1,0 +1,9 @@
+@inproceedings{REPO382,
+    author = "Fang, Zijie and Chen, Yang and Wang, Yifeng and Wang, Zhi and Ji, Xiangyang and Zhang, Yongbing",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "1",
+    pages = "606--613",
+    title = "{Weakly-Supervised Semantic Segmentation for Histopathology Images Based on Dataset Synthesis and Feature Consistency Constraint}",
+    volume = "37",
+    year = "2023"
+}
